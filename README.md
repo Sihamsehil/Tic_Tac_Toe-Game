@@ -8,7 +8,7 @@ Players can choose their side (**X or O**) and play interactively on a colorful 
 ## 🎨 Preview
 
 
-> ![Game Screenshot](assets/screenshot.png)
+> ![Game Screenshot](assets/Screenshot.png)
 
 ---
 
