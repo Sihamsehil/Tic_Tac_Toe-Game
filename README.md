@@ -1,16 +1,41 @@
-# tic_tac_toe
+# Tic Tac Toe Flutter Game
 
-A new Flutter project.
+A clean and fun **Tic Tac Toe** game built with **Flutter**.  
+Players can choose their side (**X or O**) and play interactively on a colorful 3x3 grid.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎨 Preview
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> ![Game Screenshot](assets/screenshot.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+-  Simple and intuitive interface  
+-  Soft pastel gradient colors (pink & mint theme)  
+-  Player selection screen (choose X or O)  
+-  Alternating turns  
+-  Fully responsive on Android  
+-  Draw/ain logic
+
+---
+
+## 🧰 Tech Stack
+
+| Tool | Description |
+|------|--------------|
+| **Framework** | Flutter |
+| **Language** | Dart |
+| **IDE** | VS Code / Android Studio |
+
+---
+
+## 💡 Future Improvements
+-  Add AI mode (play against computer)  
+- Add sound effects and animations 
+- Enhance UI with gradient backgrounds and effects
+
+
